@@ -1,0 +1,17 @@
+img{
+  vertical-align: middle;
+  border-radius: 100%;
+  width: 100px;
+}
+#details{
+  padding: 100px 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.left-col{
+  flex-basis: 30%;
+}
+.right-col{
+  flex-basis: 70%;
+}
